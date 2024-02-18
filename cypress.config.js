@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login',
+    baseUrl: 'https://opensource-demo.orangehrmlive.com',
     defaultCommandTimeout: 10000,
     experimentalWebKitSupport: true,
     experimentalRunAllSpecs: true,
