@@ -1,4 +1,4 @@
-# Assessment
+# Demo Project
 
 This repository contains automated tests for the OrangeHRM platform using Cypress.
 
